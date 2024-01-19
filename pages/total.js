@@ -1,5 +1,5 @@
 import { useEffect, useCallback } from "react"
-import Layout from "../Layout/Layout"
+import Layout from "../layout/Layout"
 import useQuiosco from "../hooks/useQuiosco"
 import { formatearDinero } from "../helpers"
 
